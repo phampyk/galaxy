@@ -15,6 +15,7 @@
 
 */
 
+@import url('https://fonts.bunny.net/css?family=Jost:400,700&display=swap');
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -62,10 +63,10 @@
     font-size: 100%; }
 
   :root {
-    --bgColor: #223344;
-    --bgColor2: #090a0f;
+    --bgColor: #eeaeca;
+    --bgColor2: #94bbe9;
     --accentColor: #FFF;
-    --font: 'Karla', sans-serif;
+    --font: 'Jost', sans-serif;
     --delay: .3s; }
 
   /* Background
@@ -138,11 +139,11 @@
   /* Links
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   a {
-    color: #0085FF; 
+    color: #eeaeca; 
     text-decoration: none;
   }
   a:hover {
-    color: #0085FF; }
+    color: #eeaeca; }
   
   .spacing {
     padding: 0 10px;
