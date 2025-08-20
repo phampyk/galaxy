@@ -129,7 +129,7 @@
   
   /* Larger than phablet */
   @media (min-width: 350px) {
-    h1 { font-size: 48px; line-height: 96px;}
+    h1 { font-size: 48px; line-height: 52px;}
   }
   
   p {
