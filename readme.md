@@ -7,7 +7,7 @@ Find more themes: https://github.com/linkstackorg/linkstack-themes
 *	Theme Author: JulianPrieber & LinkStack Team & phampyk
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
-*	Source code: https://github.com/phampyk/galaxy
+*	Source code: https://github.com/phampyk/galaxy-light
 
 
 ### Used assets:
