@@ -4,10 +4,10 @@ Find more themes: https://github.com/linkstackorg/linkstack-themes
 *	Theme Name: Galaxy
 *	Theme Version: 2.1
 *	Theme Date: 2022-06-09
-*	Theme Author: JulianPrieber & LinkStack Team
+*	Theme Author: JulianPrieber & LinkStack Team & phampyk
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
-*	Source code: https://github.com/linkstackorg/galaxy
+*	Source code: https://github.com/phampyk/galaxy
 
 
 ### Used assets:
