@@ -1,7 +1,7 @@
 # A LinkStack Theme
 Find more themes: https://github.com/linkstackorg/linkstack-themes
                                                                                                                                                                          
-*	Theme Name: Galaxy
+*	Theme Name: Galaxy Light
 *	Theme Version: 2.1
 *	Theme Date: 2022-06-09
 *	Theme Author: JulianPrieber & LinkStack Team & phampyk
